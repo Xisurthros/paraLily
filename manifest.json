@@ -4,8 +4,8 @@
     "description": "Custom extension to show love to my girlfriend",
     "version": "0.0.1",
     "action": {
-        "default_popup": "popup.html",
-        "default_icon": "heart_128x128.png"
+        "default_popup": "html/popup.html",
+        "default_icon": "images/heart.png"
       }
 
 }
